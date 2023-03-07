@@ -6,7 +6,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:bernardogp102@gmail.com)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardoalmeiida&show_icons=true&theme=radical"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoalmeiida&langs_count=4&layout=compact&theme=radical" align>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardoalmeiida&show_icons=true&theme=radical">
+<img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoalmeiida&langs_count=4&layout=compact&theme=radical" align>
 
 ## Technologies that I'm studying currently
 
