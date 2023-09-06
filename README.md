@@ -3,7 +3,7 @@
 ## Estudando
 
 <div style="display: inline_block"><br>
-  <img align="center" height="60" widht="70" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=#0D1117">
+  <img align="center" height="50" widht="60" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=#0D1117">
 
 </div>
 
